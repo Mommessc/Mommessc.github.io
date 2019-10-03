@@ -1,4 +1,4 @@
-# mommessin.github.io
+# Mommessc.github.io
 Website for clément Mommessin's personal pages.  
 This website is built with [hugo](https://gohugo.io/) and uses the [blackburn](https://themes.gohugo.io/blackburn/) theme.
 
