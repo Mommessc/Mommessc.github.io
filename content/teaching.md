@@ -7,7 +7,7 @@ draft: false
 
 ### Teaching
 
-## 2019
+## 2019, 2020
 
 In my second and third year of Ph.D I taught for the *Computer Architecture and Assembly* class of first year students at IUT2 of Grenoble.
 It consisted in exercises and practical work in assembly code.

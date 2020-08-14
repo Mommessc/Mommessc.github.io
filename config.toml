@@ -15,7 +15,7 @@ disableKinds = ["RSS"]
 [params]
   # Shown in the home page
   subtitle = "Computer Scientist / Ph.D Student / Happy Dancer"
-  brand = "<img src=\"/img/me.jpg\" alt=\"Me\" style=\"width:100px;height:133px;\"> "
+  brand = "<img src=\"/img/me.jpg\" alt=\"Me\" style=\"width:133px;height:133px;\"> "
   #googleAnalytics = ""
   #disqus = ""
   # CSS name for highlight.js
