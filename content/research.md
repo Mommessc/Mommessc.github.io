@@ -36,6 +36,12 @@ draft: false
   [benchmark on GitHub](https://github.com/marcosamaris/heterogeneous-SWF)
 
 - Clément Mommessin:
+  **Efficient Management of Resources in Heterogeneous Platforms**
+  Ph.D. thesis, 2020.
+  [manuscript](/files/thesis/thesis_mommessin_final.pdf),
+  [presentation](/files/thesis/soutenance_mommessin.pdf)
+
+- Clément Mommessin:
   **Scheduling Parallel Programs on Hybrid Machines**
   Master's internship report, 2016.
   [report](/files/M2/report_M2_mommessin.pdf),
