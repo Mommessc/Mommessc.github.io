@@ -65,7 +65,7 @@
 <div id="menu">
 
   
-  <a class="pure-menu-heading brand" href="https://Mommessc.github.io/"><img src="https://Mommessc.github.io/img/me.jpg" alt="Me" style="width:133px;height:133px;"> </a>
+  <a class="pure-menu-heading brand" href="https://Mommessc.github.io/"><img src="https://Mommessc.github.io/img/me.jpg" alt="Me" style="width:100px;height:133px;"> </a>
 
 
   <div class="pure-menu">
@@ -206,10 +206,8 @@
 <div class="content">
   <h3 id="bio">Bio</h3>
 <p>Hi there!</p>
-<p>I&rsquo;m Clément Mommessin, and I am currently doing a post-doc in the University of Leeds to work on scheduling for large-scale distributed systems.
-I&rsquo;m mainly working on scheduling and simulation, applied to platforms such as parallel and distributed machines in the HPC (High Performance Computing) or Cloud/Edge Computing domains.</p>
-<p>I was just graduated as a Ph.D. in computer science (in December 2020, that&rsquo;s very new!), for which I worked under the supervision of Denis Trystram and Giorgio Lucarelli, in the DATAMOVE team of the Laboratoire d&rsquo;Informatique de Grenoble, in&hellip; Grenoble (oh really!?).
-Here are my <a href="https://Mommessc.github.io/files/thesis/thesis_mommessin_final.pdf">manuscript</a> and <a href="https://Mommessc.github.io/files/thesis/soutenance_mommessin.pdf">presentation</a>.</p>
+<p>I&rsquo;m Clément Mommessin, a Ph.D. student in computer science under the supervision of Denis Trystram and Giorgio Lucarelli, in the DATAMOVE team of the Laboratoire d&rsquo;Informatique de Grenoble, in&hellip; Grenoble (oh really!?).<br>
+I&rsquo;m mainly working on scheduling and simulation, applied to platforms such as parallel machines in the HPC (High Performance Computing) or distributed in some Cloud/Edge fashion.</p>
 <p>Between my Masters&rsquo; and the beginning of my Ph.D. I did an internship in the MCS division of the Argonne National Laboratory near Chicago under the supervision of Matthieu Dreher, Tom Peterka and Bruno Raffin.
 I worked on the <a href="https://bitbucket.org/tpeterka1/decaf/src/master/">Decaf project</a> in the development of an automatic dataflows filtering mechanism for in situ HPC workflows.
 Here are the <a href="https://Mommessc.github.io/files/decaf/contract_paper.pdf">published paper</a> of this work as well as the <a href="https://Mommessc.github.io/files/decaf/presentation.pdf">presentation slides</a> for the team.</p>
