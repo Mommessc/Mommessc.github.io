@@ -12,7 +12,7 @@ I'm Clément Mommessin, and I am currently doing a post-doc in the University of
 I'm mainly working on scheduling and simulation, applied to platforms such as parallel and distributed machines in the HPC (High Performance Computing) or Cloud/Edge Computing domains.
 
 
-I was just graduated as a Ph.D. in computer science (in December 2020, that's very new!), for which I worked under the supervision of Denis Trystram and Giorgio Lucarelli, in the DATAMOVE team of the Laboratoire d'Informatique de Grenoble, in... Grenoble (oh really!?).
+I graduated as a Ph.D. in computer science in December 2020 (that's pretty new!), for which I worked under the supervision of Denis Trystram and Giorgio Lucarelli, in the DATAMOVE team of the Laboratoire d'Informatique de Grenoble, in... Grenoble (oh really!?).
 Here are my [manuscript](/files/thesis/thesis_mommessin_final.pdf) and [presentation](/files/thesis/soutenance_mommessin.pdf).
 
 Between my Masters' and the beginning of my Ph.D. I did an internship in the MCS division of the Argonne National Laboratory near Chicago under the supervision of Matthieu Dreher, Tom Peterka and Bruno Raffin.

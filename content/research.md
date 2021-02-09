@@ -35,6 +35,8 @@ draft: false
   [HAL paper](https://hal.inria.fr/hal-01420798),
   [benchmark on GitHub](https://github.com/marcosamaris/heterogeneous-SWF)
 
+## Manucripts
+
 - Clément Mommessin:
   **Efficient Management of Resources in Heterogeneous Platforms**
   Ph.D. thesis, 2020.

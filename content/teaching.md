@@ -14,7 +14,7 @@ It consisted in exercises and practical work in assembly code.
 Throughout the class, students had to write functions for a *ball-and-paddle* game.
 
 I also gave lectures, tutorials and practical works for the *Data Structures and Fundamental Algorithms* class of first year students at IUT2 of Grenoble.
-The programming language used in practical works was ADA.
+The programming language used in this module was ADA.
 
 
 
@@ -31,3 +31,6 @@ At the end of this class, groups of students had to design and develop a simple 
 
 ### Student Supervision
 
+During my Ph.D. I co-supervised 3 students, Ning Tang, Aleksandr Danilin and Mohammed Almarakby, for Mater's first year internship on various subjects related to my research work in the domain of Edge Computing and most specifically applied to the *Qarnot Computing* platform.
+
+I also co-supervised Anderson Andrei Da Silva for his Master's final project, whose subject is closely related to our scientific paper published in the [SBAC-PAD 2020](https://hal.inria.fr/hal-02915346) conference.

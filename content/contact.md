@@ -5,9 +5,7 @@ draft: false
 ---
 
 ### Email
-- clement [dot] mommessin [at] inria [dot] fr
+- C [dot] Mommessin [at] leeds [dot] ac [dot] uk
 
 ### Office
-Office 431, LIG - INRIA Grenoble
-Bâtiment IMAG, 700 av. Centrale
-38401 Saint-Martin-d'Hères, France
+N/A
