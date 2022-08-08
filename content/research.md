@@ -6,6 +6,10 @@ draft: false
 
 ## Publications
 
+- Vincent Fagnon, Giorgio Lucarelli, Clément Mommessin, Denis Trystram:
+  **Two-Agent Scheduling with Resource Augmentation on Multiple Machines**
+  to appear in Euro-Par 2022.
+
 - Olivier Beaumont, Louis-Claude Canon, Lionel Eyraud-Dubois, Giorgio Lucarelli, Loris Marchal, Clément Mommessin, Bertrand Simon, Denis Trystram:
   **Scheduling on Two Types of Resources: a Survey**
   in ACM Computing Surveys, 53 (3), 2020.

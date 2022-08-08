@@ -14,7 +14,7 @@ disableKinds = ["RSS"]
 
 [params]
   # Shown in the home page
-  subtitle = "Computer Scientist / Ph.D Student / Happy Dancer"
+  subtitle = "Computer Scientist / Post-Doc Researcher / Happy Dancer"
   brand = "<img src=\"/img/moi_vaddo.jpg\" alt=\"Me\" style=\"width:133px;height:133px;\"> "
   #googleAnalytics = ""
   #disqus = ""

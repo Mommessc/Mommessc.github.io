@@ -23,7 +23,7 @@ During my Masters Degree, I worked on *Scheduling Parallel Programs on Hybrid Ma
 Here are my [thesis report](/files/M2/report_M2_mommessin.pdf) and [slides](/files/M2/slides_M2_mommessin.pdf).
 
 
-If you mant more formal details about me, here's my [curriculum](/files/resume_mommessin_2020.pdf).
+If you mant more formal details about me, here's my [curriculum](/files/CV_mommessin_aug_2022.pdf).
 
 
 
@@ -31,7 +31,7 @@ If you mant more formal details about me, here's my [curriculum](/files/resume_m
 
 ### Hobbies
 
-On my free time, I'm mostly reading novels, cylcling, dancing and solving puzzles, or preparing new scientific mediation activities.  
+On my free time, I'm mostly reading novels, cycling, dancing and solving puzzles, or preparing new scientific mediation activities.  
 Overall, I'm simply living!
 
 
@@ -42,12 +42,12 @@ Overall, I'm simply living!
 
 Here are some of the projects I work(ed) on.
 
-On my everyday work in research I use and make contributions to [Batsim](https://github.com/oar-team/batsim), an infrastructure simulator for jobs and I/O scheduling, build on top of the simulation toolkit [SimGrid](http://simgrid.gforge.inria.fr/).
+On my everyday work in research I use and make contributions to [Batsim](https://github.com/oar-team/batsim), an infrastructure simulator for jobs and I/O scheduling, built on top of the simulation toolkit [SimGrid](http://simgrid.gforge.inria.fr/).
 
 
 On a funnier point of view, I'm working on mediation activities for mathematics and computer science.  
 Together with Marie Le Guilly we created our own mediation activity named [Mesures Binaires](https://github.com/Mommessc/Mesures_binaires-binaires), during the summer school "Médiation Scientifique en Informatique" organised by the SIF in Toulouse in June 2018.
 
 
-I am also implementing small board games such as [Katarenga](https://github.com/Henry38/Katarenga) or the [Hex](https://github.com/Mommessc/Hex).
+I am also implementing small board games such as [Katarenga](https://github.com/Henry38/Katarenga) or the (not famous enough) [Hex](https://github.com/Mommessc/Hex).
 
