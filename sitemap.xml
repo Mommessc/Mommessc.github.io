@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://Mommessc.github.io/about/</loc>
     <lastmod>2020-08-14T10:00:30+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://Mommessc.github.io/contact/</loc>
     <lastmod>2019-10-03T11:05:35+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/research/</loc>
+    <loc>https://Mommessc.github.io/research/</loc>
     <lastmod>2019-10-03T11:05:35+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/teaching/</loc>
+    <loc>https://Mommessc.github.io/teaching/</loc>
     <lastmod>2019-10-03T11:05:35+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://Mommessc.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://Mommessc.github.io/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://Mommessc.github.io/tags/</loc>
   </url>
 </urlset>
