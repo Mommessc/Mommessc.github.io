@@ -5,7 +5,7 @@ draft: false
 ---
 
 ### Email
-- C [dot] Mommessin [at] leeds [dot] ac [dot] uk
+- clement [dot] mommessin [at] imt-atlantique [dot] fr
 
 ### Office
-N/A
+N/A (somewhere under a rainbow)

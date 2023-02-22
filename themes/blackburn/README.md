@@ -34,14 +34,14 @@ Blackburn is a clear and responsive theme for [Hugo](//gohugo.io).
   * Last.fm
   * Discogs
   * Keybase
-* Client-side syntax highlighting by [Highlight.js](//highlightjs.org) (v9.12.0)
-* Web analytics by Google Analytics
-* Comments by Disqus
-* Icons by Font Awesome (v4.7.0)
+* Client-side syntax highlighting by [Highlight.js](https://highlightjs.org) (v10.6.0)
+* Web analytics by Piwik, Google Analytics, or [GoatCounter](https://www.goatcounter.com/)
+* Comments by Disqus or [Commento](https://www.commento.io/)
+* Icons by Font Awesome (v5.15.2)
 
 ## Demo
 
-* [Demo](http://themes.gohugo.io/theme/blackburn/)
+* [Demo](http://themes.gohugo.io/themes/blackburn/)
 * You can also see it in action on my personal website [here](http://yoshiharuyamashita.com/)
 
 ## Screenshots
@@ -173,6 +173,17 @@ paginate = 10
   keybase = "*"
 ```
 
+
+## [Add hugo contact form](https://fabform.io/a/hugo-contact-form)
+ 
+  ```
+ <form action="https://fabform.io/f/{form-id}" method="post">
+  <label for="email">Your Email</label>
+  <input name="email" type="email">
+  <button type="submit">Submit</button> 
+ </form>
+```
+
 ## Usage
 
 * Write Markdown files in `content/post`
@@ -187,18 +198,18 @@ paginate = 10
   url = "/about/"
 ```
 
-* Override the theme by linking to custom CSS files:
+* Override the theme by linking to custom CSS files or URLs:
 
 ```toml
 [params]
   custom_css = ["css/my.css"]
 ```
 
-* Add new behaviours by linking to custom JS files:
+* Add new behaviours by linking to custom JS files or URLs:
 
 ```toml
 [params]
-  custom_js = ["js/my.js"]
+  custom_js = ["js/my.js", "https://cdnjs.cloudflare.com/ajax/libs/zooming/1.4.2/zooming.min.js"]
 ```
 
 ## Shortcodes
