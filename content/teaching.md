@@ -5,9 +5,15 @@ draft: false
 ---
 
 
-### Teaching
+Teaching
+========
 
-## 2021, 2022,
+## 2023
+
+During my second post-doc, I did practical sessions for the *Algorithmics and Discreet Maths with Python* module of first year students at the IMT Atlantique engineering school in Nantes.
+
+
+## 2021, 2022
 
 During my first post-doc, I taught tutorials for the *Combinatorial Optimisation* and *Algorithmic* modules for Undergratuate students at the University of Leeds.
 
@@ -22,7 +28,6 @@ I also gave lectures, tutorials and practical works for the *Data Structures and
 The programming language used in this module was ADA.
 
 
-
 ## 2017, 2018
 
 In my first two years of Ph.D. I taught for the *Algorithmic and Programming* class of first year students at IUT1 in Grenoble.
@@ -34,7 +39,8 @@ At the end of this class, groups of students had to design and develop a simple 
 
 
 
-### Student Supervision
+Student Supervision
+====================
 
 During my Ph.D. I co-supervised 3 students, Ning Tang, Aleksandr Danilin and Mohammed Almarakby, for Mater's first year internship on various subjects related to my research work in the domain of Edge Computing and most specifically applied to the *Qarnot Computing* platform.
 

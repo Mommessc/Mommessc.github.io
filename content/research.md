@@ -6,16 +6,34 @@ draft: false
 
 ## Publications
 
+I have currently one pending submission waiting for acceptance/review:
+- Clément Mommessin, Thomas Erlebach, Natalia V. Shakhlevich:
+  **Classification and Evaluation of the Algorithms for
+Vector Bin Packing**
+  submitted in Computers and Operations Research.
+  [[pre-print](/files/VectorPackingCOR_V2.pdf)]
+  [[pre-print on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4450606)]
+
+
+
+All my publications are available on [HAL](https://hal.science/search/index/q/*/authIdHal_s/clement-mommessin) and detailed below.
+
 - Clément Mommessin, Renyu Yang, Natalia V. Shakhlevich, Xiaoyang Sun, Satish Kumar, Junqing Xiao, Jie Xu:
   **Affinity-Aware Resource Provisioning for Long-Running Applications in
 Shared Clusters**
-  to appear in JPDC 2023.
+  in JPDC, 177, 2023.
+  [[paper on HAL](https://hal.science/hal-04271642v1)]
   [[experiments on GitHub](https://github.com/DSSGroup-Leeds/LRA-binpacking-expe)]
 
 - Vincent Fagnon, Giorgio Lucarelli, Clément Mommessin, Denis Trystram:
   **Two-Agent Scheduling with Resource Augmentation on Multiple Machines**
   in Euro-Par 2022: 253-267.
   [[paper on HAL](https://hal.inria.fr/hal-03666851v1)]
+
+- Danilo Carastan-Santos, Anderson Andrei da Silva, Denis Trystram, Alfredo Goldman, Angan Mitra, Yanik Ngoko, Clément Mommessin:
+  **Short-Term Ambient Temperature Forecasting for Smart Heaters**
+  in ISCC 2021.
+  [[paper on HAL](https://hal.science/hal-03364728v1)]
 
 - Olivier Beaumont, Louis-Claude Canon, Lionel Eyraud-Dubois, Giorgio Lucarelli, Loris Marchal, Clément Mommessin, Bertrand Simon, Denis Trystram:
   **Scheduling on Two Types of Resources: a Survey**
@@ -61,9 +79,9 @@ Shared Clusters**
   [[slides](/files/M2/slides_M2_mommessin.pdf)]
 
 
-## Research Interest
+## Research Interests
 - High Performance Computing
 - Scheduling
 - Approximation Algorithms
 - Platform Simulation
-- Energy Efficiency
+- Soberness in ICT
